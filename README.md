@@ -1,2 +1,2 @@
 # BudgetKnight
-A 2D Action Platformer created på Lukas Vikström and Jesper Skoglund
+A 2D Action Platformer created by Lukas Vikström and Jesper Skoglund 
